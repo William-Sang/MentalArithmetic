@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mental Arithmetic</string>
+    <string name="title_activity_operator_selector">OperatorSelector</string>
+    <string name="operator">Operator</string>
+</resources>
