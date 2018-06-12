@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("io.datacode.arithmetic.mentalarithmetic", appContext.getPackageName());
+        assertEquals("com.williamsang.arithmetic.mentalarithmetic", appContext.getPackageName());
     }
 }

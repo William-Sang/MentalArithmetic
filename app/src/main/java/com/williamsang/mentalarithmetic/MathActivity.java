@@ -13,7 +13,6 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.Random;
 
-import com.williamsang.mentalarithmetic.R;
 import com.williamsang.mentalarithmetic.utils.Constants;
 
 import static com.williamsang.mentalarithmetic.utils.Constants.getRandomSeqArray;

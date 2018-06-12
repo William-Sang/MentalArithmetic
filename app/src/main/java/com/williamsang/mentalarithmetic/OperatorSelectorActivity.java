@@ -5,8 +5,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.williamsang.mentalarithmetic.R;
-
 public class OperatorSelectorActivity extends AppCompatActivity {
 
     public final static String Operator = "Operator";
